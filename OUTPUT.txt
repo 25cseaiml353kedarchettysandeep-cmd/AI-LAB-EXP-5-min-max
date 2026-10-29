@@ -1,0 +1,6 @@
+Minimax — Sample Output
+=======================
+
+Example console output for the experiment. This is a sample; interactive runs may differ based on the input entered.
+
+The optimal value is: 63
